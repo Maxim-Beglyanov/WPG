@@ -7,10 +7,9 @@
         "id": "9730acb9f25f46a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Экономика/Общее здание.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Экономика/Общее здание.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +91,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345
   },
   "active": "9730acb9f25f46a2",
   "lastOpenFiles": [
-    "README.md",
-    "README/Set commit description.png",
-    "README/Obsidian Git.png",
-    "Бои/Местность.md",
-    "Бои/Моделирование битв.md",
-    "Бои/Бои.md",
-    "Бои/Детали на карте битв.md",
-    "Ивенты/Картинка к ивенту.jpg",
+    "Экономика/Общее здание.png",
+    "Экономика/Виды экономических структур.md",
+    "Экономика/Имитация предметов.png",
+    "Ивенты/Ивенты.md",
     "Ивенты/Форма ивента.md",
-    "Ивенты/Ивенты.md"
+    "Экономика/Улучшенные здания.png",
+    "Экономика/Независимое здание.png",
+    "README.md",
+    "Шаблон записи.md",
+    "ВПИ.md"
   ]
 }
