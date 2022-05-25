@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Экономика/Виды экономических структур.md",
+            "file": "Ивенты/Форма ивента.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экономика/Виды экономических структур.md",
+                "file": "Ивенты/Форма ивента.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "9730acb9f25f46a2",
   "lastOpenFiles": [
+    "Ивенты/Форма ивента.md",
+    "Ивенты/Ивенты.md",
+    "Ивенты/Картинка к ивенту.jpg",
     "Экономика/Виды экономических структур.md",
     "Бои/Моделирование битв.md",
     "Бои/Местность.md",
     "Бои/Детали на карте битв.md",
     "Бои/Бои.md",
     "ВПИ.md",
-    "README.md",
-    "README/Set commit description.png",
-    "README/Obsidian Git.png",
-    "Шаблон записи.md"
+    "README.md"
   ]
 }
