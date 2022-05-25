@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Экономика/Виды экономических структур.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Экономика/Виды экономических структур.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "9730acb9f25f46a2",
   "lastOpenFiles": [
-    "README.md",
+    "Экономика/Виды экономических структур.md",
+    "Бои/Моделирование битв.md",
+    "Бои/Местность.md",
+    "Бои/Детали на карте битв.md",
+    "Бои/Бои.md",
     "ВПИ.md",
+    "README.md",
     "README/Set commit description.png",
     "README/Obsidian Git.png",
-    "Экономика/Виды экономических структур.md",
-    "Бои/Бои.md",
-    "Шаблон записи.md",
-    "Бои/Местность.md",
-    "Бои/Моделирование битв.md",
-    "Бои/Детали на карте битв.md"
+    "Шаблон записи.md"
   ]
 }
