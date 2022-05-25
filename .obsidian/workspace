@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -97,14 +97,14 @@
   "active": "9730acb9f25f46a2",
   "lastOpenFiles": [
     "README.md",
+    "ВПИ.md",
     "README/Set commit description.png",
     "README/Obsidian Git.png",
+    "Экономика/Виды экономических структур.md",
+    "Бои/Бои.md",
+    "Шаблон записи.md",
     "Бои/Местность.md",
     "Бои/Моделирование битв.md",
-    "Бои/Бои.md",
-    "Бои/Детали на карте битв.md",
-    "Ивенты/Картинка к ивенту.jpg",
-    "Ивенты/Форма ивента.md",
-    "Ивенты/Ивенты.md"
+    "Бои/Детали на карте битв.md"
   ]
 }
