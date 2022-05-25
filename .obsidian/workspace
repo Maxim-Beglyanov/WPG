@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ивенты/Форма ивента.md",
-            "mode": "preview"
+            "file": "Ивенты/Ивенты.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ивенты/Форма ивента.md",
+                "file": "Ивенты/Ивенты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "9730acb9f25f46a2",
   "lastOpenFiles": [
-    "Ивенты/Форма ивента.md",
     "Ивенты/Ивенты.md",
+    "Ивенты/Форма ивента.md",
     "Ивенты/Картинка к ивенту.jpg",
     "Экономика/Виды экономических структур.md",
     "Бои/Моделирование битв.md",
